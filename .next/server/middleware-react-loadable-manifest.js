@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages/index.jsx -> ../Component/NexusCRM\":{\"id\":\"pages/index.jsx -> ../Component/NexusCRM\",\"files\":[\"static/chunks/Component_NexusCRM_jsx.js\"]}}"
